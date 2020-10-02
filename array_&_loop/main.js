@@ -8,3 +8,5 @@ let v, i = 0;
 while (v = arry[i++]) {
     console.log(v);
 }
+
+// 配列の中にfalsyな値がある場合は成立しない。
